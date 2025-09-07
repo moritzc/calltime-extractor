@@ -1,4 +1,4 @@
-# Skype Call Extractor
+# Teams/Skype Call Extractor
 
 A simple web-based tool to extract, view, and export your call history from a Skype data export (`messages.json`).
 
