@@ -4,7 +4,8 @@ A simple web-based tool to extract, view, and export your call history from a Sk
 
 This tool processes everything locally in your browser. **No data ever leaves your device.**
 
-![Skype Call Extractor Screenshot](https://i.imgur.com/your-screenshot.png) <!-- TODO: Add a real screenshot -->
+<img width="1159" height="752" alt="image" src="https://github.com/user-attachments/assets/60cea7a5-6f2d-44ce-a6ae-3ca1eefc21d5" />
+
 
 ## Features
 
@@ -19,13 +20,13 @@ This tool processes everything locally in your browser. **No data ever leaves yo
 ## How to Use
 
 1.  **Export Your Skype Data**:
-    -   Go to the official Skype data export page: [https://secure.skype.com/en/data-export](https://secure.skype.com/en/data-export) or [https://go.skype.com/export](https://go.skype.com/export).
-    -   Select the option to export "Conversations".
+    -   Go to the official Teams data export page: [[https://secure.skype.com/en/data-export](https://secure.skype.com/en/data-export) or [https://go.skype.com/export](https://go.skype.com/export).](https://teams.live.com/dataexport).
+    -   Select the option to export "Chat history".
     -   Submit the request. It may take some time for your export to be ready. You will receive a notification when it's available to download.
     -   Download the exported `.tar` file and extract it. Inside, you will find the `messages.json` file.
 
 2.  **Upload to the Extractor**:
-    -   Open the Skype Call Extractor web page.
+    -   Open the Call Extractor web page.
     -   Click the "Select file" button and choose the `messages.json` file you extracted.
 
 3.  **Explore and Export**:
@@ -39,8 +40,8 @@ To run the project locally for development:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd call-extractor
+    git clone https://github.com/moritzc/calltime-extractor/
+    cd calltime-extractor
     ```
 
 2.  **Install dependencies**:
