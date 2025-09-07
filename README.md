@@ -20,7 +20,7 @@ This tool processes everything locally in your browser. **No data ever leaves yo
 ## How to Use
 
 1.  **Export Your Skype Data**:
-    -   Go to the official Teams data export page: [[https://secure.skype.com/en/data-export](https://secure.skype.com/en/data-export) or [https://go.skype.com/export](https://go.skype.com/export).](https://teams.live.com/dataexport).
+    -   Go to the official Teams data export page: https://teams.live.com/dataexport
     -   Select the option to export "Chat history".
     -   Submit the request. It may take some time for your export to be ready. You will receive a notification when it's available to download.
     -   Download the exported `.tar` file and extract it. Inside, you will find the `messages.json` file.
