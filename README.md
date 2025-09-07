@@ -1,4 +1,6 @@
-# Call Extractor (from your App.jsx) — v2
+# Skype/Teams Call extractor
+
+To use with messages.json from a data takeout!
 
 ## Dev
 npm install
